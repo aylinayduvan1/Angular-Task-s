@@ -1,27 +1,8 @@
-# MyApp
+![image](https://github.com/aylinayduvan1/Angular-Task-s/assets/98785023/0422c0e9-1ffd-457e-92b7-c2f3b293acd4)# Angular Task
+![image](https://github.com/aylinayduvan1/Angular-Task-s/assets/98785023/8501e4a1-0c4d-46bf-9545-60d50c57be87)
+![Screenshot_8](https://github.com/aylinayduvan1/Angular-Task-s/assets/98785023/3e8d0b1f-bf85-474f-8add-5530bb645988)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.0.
+![Screenshot_9](https://github.com/aylinayduvan1/Angular-Task-s/assets/98785023/108ae18a-f518-4834-aade-f6b7f253059d)
 
-## Development server
+![Screenshot_10](https://github.com/aylinayduvan1/Angular-Task-s/assets/98785023/a01ed3e6-3371-47b1-a82d-ff862054611b)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
