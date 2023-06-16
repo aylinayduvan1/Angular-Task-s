@@ -1,0 +1,18 @@
+<div class="container">
+  <h1 style="text-align: center; margin-bottom: 50px;">GALERİ</h1>
+  <div class="row row-cols-1 row-cols-md-3 g-4">
+    <div class="col-md-3" *ngFor="let item of icerik">
+      <div class="card flex justify-content-center" (click)="showDialog(item.baslik, item.aciklama)">
+        <img [src]="'assets/' + item.resim" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">{{ item.baslik }}</h5>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <p-dialog header="..." [(visible)]="visible" [breakpoints]="{ '960px': '75vw' }" [style]="{ width: '50vw', 'background-color': '#ffffff' }" [draggable]="false" [resizable]="false">
+    <h4>{{ dialogBaslik }}</h4>
+    <p>{{ dialogAciklama }}</p>
+  </p-dialog>
+</div>

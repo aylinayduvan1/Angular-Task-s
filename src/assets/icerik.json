@@ -1,0 +1,33 @@
+[
+    {
+      "baslik": "Efes",
+      "aciklama": "Efes, Anadolu'nun batı kıyısında, bugünkü İzmir ilinin Selçuk ilçesinin üç kilometre güneybatısında yer alan antik bir Luvi şehriydi. Şehir Anadolu'da Yunan sömürgeciliğinin başlamasıyla birlikte İyonya ve daha sonra Roma dönemlerinde de önemini korumuştur. Kuruluşu Cilalı Taş Devrine yani MÖ 6000 yıllarına dayanır.",
+      "resim": "efes.png"
+    },
+    {
+      "baslik": "Kız Kulesi",
+      "aciklama": "İlk olarak Yunan döneminde bir mezara ev sahipliği yapan bu ada, Bizans döneminde inşa edilen ek bina ile gümrük istasyonu olarak kullanılmıştır. Osmanlı döneminde ise gösteri platformundan savunma kalesine, sürgün istasyonundan karantina odasına kadar birçok işlev yüklenmiştir. Asli görevi olan ve yüzyıllardan beri varlığı ile insanlara, geceleri ise geçen gemilere göz kırpan feneri ile yol gösterme işlevini hiç kaybetmemiştir.",
+      "resim": "kızkulesi.png"
+    },
+    {
+      "baslik": "Renkli Evler",
+      "aciklama": "Rengârenk evleri ve taş döşeli dar sokakları ile Balat, mütevazı bir bölgedir. Popüler kafeler ve modern galeriler, mahallenin eski tarz bakkalları ile aynı sokakları paylaşır. Ekümenik Rum Patrikhanesi bazilikası, sinagoglar ve Bizans kiliseleri gibi yapılar; Yahudi, Rum ve Ermeni topluluklarına ev sahipliği yapan bölgenin kozmopolit tarihini yansıtır.",
+      "resim": "balat.png"
+    },
+    {
+      "baslik": "Saat Kulesi",
+      "aciklama": "Konak Meydanı'nda yer alan ve İzmir'in sembolü olan Saat Kulesi, Osmanlı Padişahı Sultan II. Abdülhamid'in tahta çıkışının 25. yılını kutlamak amacıyla 1901 yılında; İzmir Valisi Kıbrıslı Kâmil Paşa, Bahriye Mirlivaşı Said Paşa ve Belediye Reisi Eşref Paşa'dan oluşan komisyon tarafından yaptırılmıştır. Bu yapı 25 metre yüksekliğinde, dört katlı ve sekizgen planlıdır.",
+      "resim": "saatkulesi.png"
+    },
+    {
+        "baslik": "Galata",
+        "aciklama": "Canlı Galata bölgesinin merkezinde, terasından panoramik Boğaz manzaraları sunan, 14. yüzyıldan kalma Galata Kulesi yer alır. Kuleyi çevreleyen dar sokaklarda şık barlar, eski tarz restoranlar ve çeşitli ürünler satan küçük mağazalar vardır. Semti asırlık sinagoglar, kiliseler ve camiler süsler. Galata Mevlevihanesi'nde ise sema gösterileri sunulur.",
+        "resim": "galata.png"
+      },
+      {
+        "baslik": "Anıtkabir",
+        "aciklama": "Anıtkabir, Türk Kurtuluş Savaşı'nın ve inkılaplarının önderi ve Türkiye Cumhuriyeti'nin ilk Cumhurbaşkanı Mustafa Kemal Atatürk'ün, Ankara Anıttepe'de (eski adıyla Rasattepe) bulunan anıt mezarıdır. Ayrıca dördüncü Cumhurbaşkanı Cemal Gürsel de 1966 yılında devrim şehitleri bölümüne defnedilmiştir. 1973'ten beri İsmet İnönü'nün kabri de Anıtkabir'dedir.",
+        "resim": "anitkabir.jpg"
+      }
+    ]
+    
